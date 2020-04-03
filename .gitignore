@@ -41,3 +41,8 @@ yarn-debug.log*
 .DS_Store
 .env*
 .env*
+*.sqlite3
+
+
+# python
+__pycache__
